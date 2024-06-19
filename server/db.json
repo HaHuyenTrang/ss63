@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "bài 1",
+      "image": "https://toigingiuvedep.vn/wp-content/uploads/2021/06/hinh-anh-lang-que-viet-nam.jpg",
+      "date": "19/06/2024",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "bài 2",
+      "image": "https://toigingiuvedep.vn/wp-content/uploads/2021/06/hinh-anh-lang-que-viet-nam.jpg",
+      "date": "18/06/2024",
+      "status": true
+    }
+  ]
+}
